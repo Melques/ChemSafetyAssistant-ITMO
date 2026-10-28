@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+build/
+dist/
+
+# Секреты: ключ и адрес модели лежат только в .env
+.env
+
+# Сгенерированные данные, пересобираются скриптами из scripts/
+data/processed/*
+!data/processed/.gitkeep
+
+# Отчёты и трейсы рабочих прогонов. В git попадает только финальный прогон
+# (uv run python -m eval.run --final пишет в reports/final и traces/final)
+reports/*
+!reports/.gitkeep
+!reports/final/
+traces/*
+!traces/.gitkeep
+!traces/final/
+
+# IDE и ОС
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

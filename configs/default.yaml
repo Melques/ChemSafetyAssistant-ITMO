@@ -1,0 +1,29 @@
+llm:
+  temperature: 0
+  max_tokens: 1024
+  # false, если эндпоинт не поддерживает response_format с json_schema;
+  # тогда схема передаётся только в промпте
+  structured_output: true
+
+paths:
+  raw_sds: data/raw/sds
+  substances: data/substances.csv
+  compatibility: data/reference/trgs510_compatibility.csv
+  processed: data/processed
+  chunks: data/processed/chunks.jsonl
+  ghs_db: data/processed/ghs.sqlite
+  storage_log: data/processed/storage_log.sqlite
+  golden: golden/golden_set.jsonl
+  dev_pool: golden/dev_pool.jsonl
+  reports: reports
+  traces: traces
+
+retrieval:
+  top_k: 5
+  chunk_max_chars: 1500
+  rrf_k: 60
+  embedding_model: BAAI/bge-m3
+  reranker_model: BAAI/bge-reranker-v2-m3
+
+agent:
+  max_steps: 4

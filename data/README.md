@@ -9,6 +9,7 @@
 | Сайты производителей (Sigma-Aldrich, Fisher, Carl Roth, Merck) | SDS в PDF | скачивание, `scripts/download_sds.py` или вручную | | | |
 | PubChem PUG REST / PUG View | GHS-классификация: H-коды, пиктограммы, сигнальное слово | `scripts/build_ghs_db.py` | | | |
 | TRGS 510 | таблица совместного хранения по классам хранения | вручную из официального текста | | | |
+| ILO | Карточки с описанием веществ | scripts/fetch_icsc_cards.py | | | |
 
 ## Структура
 

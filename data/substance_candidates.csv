@@ -1,0 +1,101 @@
+substance_id,name_ru,name_en,cas,group,priority,suggested_forms,pubchem_cid,pubchem_title,identity_source_url,identity_checked_at,selected_sds_count,next_action
+S001,Ацетон,Acetone,67-64-1,Растворители,1,Чистый реактив,180,Acetone,https://pubchem.ncbi.nlm.nih.gov/compound/180,2026-11-18,1,annotate_sds
+S002,Этанол,Ethanol,64-17-5,Растворители,1,Неденатурированный; 96 % и абсолютный,702,Ethanol,https://pubchem.ncbi.nlm.nih.gov/compound/702,2026-11-18,0,select_sds
+S003,Изопропанол,2-Propanol,67-63-0,Растворители,1,Чистый реактив и раствор 70 %,3776,Isopropanol,https://pubchem.ncbi.nlm.nih.gov/compound/3776,2026-11-18,2,annotate_sds
+S004,Метанол,Methanol,67-56-1,Растворители,1,Чистый реактив,887,Methanol,https://pubchem.ncbi.nlm.nih.gov/compound/887,2026-11-18,1,annotate_sds
+S005,Ацетонитрил,Acetonitrile,75-05-8,Растворители,1,Чистый реактив,6342,Acetonitrile,https://pubchem.ncbi.nlm.nih.gov/compound/6342,2026-11-18,1,annotate_sds
+S006,Этилацетат,Ethyl acetate,141-78-6,Растворители,1,Чистый реактив,8857,Ethyl Acetate,https://pubchem.ncbi.nlm.nih.gov/compound/8857,2026-11-18,1,annotate_sds
+S007,Толуол,Toluene,108-88-3,Растворители,1,Чистый реактив,1140,Toluene,https://pubchem.ncbi.nlm.nih.gov/compound/1140,2026-11-18,1,annotate_sds
+S008,н-Гексан,n-Hexane,110-54-3,Растворители,1,Индивидуальное вещество; отличать от смеси гексанов,8058,Hexane,https://pubchem.ncbi.nlm.nih.gov/compound/8058,2026-11-18,0,select_sds
+S009,Азотная кислота,Nitric acid,7697-37-2,Кислоты,1,Растворы 65 % и 1 моль/л,944,Nitric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/944,2026-11-18,1,annotate_sds
+S010,Соляная кислота,Hydrochloric acid,7647-01-0,Кислоты,1,Водные растворы 37 % и 1 моль/л,313,Hydrochloric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/313,2026-11-18,2,annotate_sds
+S011,Серная кислота,Sulfuric acid,7664-93-9,Кислоты,1,95–98 % и раствор 1 моль/л,1118,Sulfuric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/1118,2026-11-18,1,annotate_sds
+S012,Уксусная кислота,Acetic acid,64-19-7,Кислоты,1,Ледяная и водный раствор 10 %,176,Acetic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/176,2026-11-18,1,annotate_sds
+S013,Ортофосфорная кислота,Phosphoric acid,7664-38-2,Кислоты,1,Водный раствор 85 %,1004,Phosphoric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/1004,2026-11-18,1,annotate_sds
+S014,Гидроксид натрия,Sodium hydroxide,1310-73-2,Основания,1,Твёрдый реактив и раствор 1 моль/л,14798,Sodium Hydroxide,https://pubchem.ncbi.nlm.nih.gov/compound/14798,2026-11-18,1,annotate_sds
+S015,Гидроксид калия,Potassium hydroxide,1310-58-3,Основания,1,Твёрдый реактив,14797,Potassium Hydroxide,https://pubchem.ncbi.nlm.nih.gov/compound/14797,2026-11-18,1,annotate_sds
+S016,Аммиак водный,Ammonium hydroxide,1336-21-6,Основания,1,Раствор 25 %; отличать от безводного аммиака,14923,Ammonium Hydroxide,https://pubchem.ncbi.nlm.nih.gov/compound/14923,2026-11-18,1,annotate_sds
+S017,Пероксид водорода,Hydrogen peroxide,7722-84-1,Пероксиды и гипохлориты,1,Водные растворы 3 % и 30 %,784,Hydrogen Peroxide,https://pubchem.ncbi.nlm.nih.gov/compound/784,2026-11-18,1,annotate_sds
+S018,Гипохлорит натрия,Sodium hypochlorite,7681-52-9,Пероксиды и гипохлориты,1,Водный раствор; зафиксировать содержание активного хлора,23665760,Sodium Hypochlorite,https://pubchem.ncbi.nlm.nih.gov/compound/23665760,2026-11-18,1,annotate_sds
+S019,Перманганат калия,Potassium permanganate,7722-64-7,Неорганические соли,1,Твёрдый реактив,516875,Potassium Permanganate,https://pubchem.ncbi.nlm.nih.gov/compound/516875,2026-11-18,0,select_sds
+S020,Хлорид натрия,Sodium chloride,7647-14-5,Неорганические соли,1,Твёрдый реактив,5234,Sodium Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/5234,2026-11-18,1,annotate_sds
+S021,н-Гептан,n-Heptane,142-82-5,Растворители,2,Чистый реактив,8900,Heptane,https://pubchem.ncbi.nlm.nih.gov/compound/8900,2026-11-18,0,select_sds
+S022,Циклогексан,Cyclohexane,110-82-7,Растворители,2,Чистый реактив,8078,Cyclohexane,https://pubchem.ncbi.nlm.nih.gov/compound/8078,2026-11-18,0,select_sds
+S023,Дихлорметан,Dichloromethane,75-09-2,Растворители,2,Чистый реактив; указать стабилизатор,6344,Dichloromethane,https://pubchem.ncbi.nlm.nih.gov/compound/6344,2026-11-18,0,select_sds
+S024,Хлороформ,Chloroform,67-66-3,Растворители,2,Чистый реактив; указать стабилизатор,6212,Chloroform,https://pubchem.ncbi.nlm.nih.gov/compound/6212,2026-11-18,0,select_sds
+S025,Диэтиловый эфир,Diethyl ether,60-29-7,Растворители,2,Чистый реактив; указать стабилизатор,3283,Diethyl Ether,https://pubchem.ncbi.nlm.nih.gov/compound/3283,2026-11-18,0,select_sds
+S026,Тетрагидрофуран,Tetrahydrofuran,109-99-9,Растворители,2,Чистый реактив; указать стабилизатор,8028,Tetrahydrofuran,https://pubchem.ncbi.nlm.nih.gov/compound/8028,2026-11-18,0,select_sds
+S027,"1,4-Диоксан","1,4-Dioxane",123-91-1,Растворители,3,Чистый реактив,31275,"1,4-Dioxane",https://pubchem.ncbi.nlm.nih.gov/compound/31275,2026-11-18,0,select_sds
+S028,"N,N-Диметилформамид","N,N-Dimethylformamide",68-12-2,Растворители,2,Чистый реактив,6228,Dimethylformamide,https://pubchem.ncbi.nlm.nih.gov/compound/6228,2026-11-18,0,select_sds
+S029,Диметилсульфоксид,Dimethyl sulfoxide,67-68-5,Растворители,2,Чистый реактив,679,Dimethyl Sulfoxide,https://pubchem.ncbi.nlm.nih.gov/compound/679,2026-11-18,0,select_sds
+S030,N-Метил-2-пирролидон,N-Methyl-2-pyrrolidone,872-50-4,Растворители,3,Чистый реактив,13387,N-methyl-2-pyrrolidone,https://pubchem.ncbi.nlm.nih.gov/compound/13387,2026-11-18,0,select_sds
+S031,Бутанон,2-Butanone,78-93-3,Растворители,2,Чистый реактив,6569,Methyl Ethyl Ketone,https://pubchem.ncbi.nlm.nih.gov/compound/6569,2026-11-18,0,select_sds
+S032,н-Бутилацетат,n-Butyl acetate,123-86-4,Растворители,3,Чистый реактив,31272,Butyl Acetate,https://pubchem.ncbi.nlm.nih.gov/compound/31272,2026-11-18,0,select_sds
+S033,1-Бутанол,1-Butanol,71-36-3,Растворители,2,Индивидуальный изомер,263,1-Butanol,https://pubchem.ncbi.nlm.nih.gov/compound/263,2026-11-18,0,select_sds
+S034,1-Пропанол,1-Propanol,71-23-8,Растворители,2,Индивидуальный изомер,1031,1-Propanol,https://pubchem.ncbi.nlm.nih.gov/compound/1031,2026-11-18,0,select_sds
+S035,Этиленгликоль,Ethylene glycol,107-21-1,Растворители,2,Чистый реактив,174,Ethylene Glycol,https://pubchem.ncbi.nlm.nih.gov/compound/174,2026-11-18,0,select_sds
+S036,Пропиленгликоль,Propylene glycol,57-55-6,Растворители,2,"1,2-Пропандиол",1030,Propylene Glycol,https://pubchem.ncbi.nlm.nih.gov/compound/1030,2026-11-18,0,select_sds
+S037,Глицерин,Glycerol,56-81-5,Растворители,2,Чистый реактив,753,Glycerol,https://pubchem.ncbi.nlm.nih.gov/compound/753,2026-11-18,0,select_sds
+S038,Муравьиная кислота,Formic acid,64-18-6,Кислоты,2,Концентрацию выбрать по SDS,284,Formic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/284,2026-11-18,0,select_sds
+S039,Борная кислота,Boric acid,10043-35-3,Кислоты,2,Твёрдый реактив,7628,Boric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/7628,2026-11-18,0,select_sds
+S040,Лимонная кислота безводная,"Citric acid, anhydrous",77-92-9,Кислоты,2,Безводная; отличать от моногидрата,311,Citric Acid,https://pubchem.ncbi.nlm.nih.gov/compound/311,2026-11-18,0,select_sds
+S041,Щавелевая кислота дигидрат,Oxalic acid dihydrate,6153-56-6,Кислоты,2,Дигидрат,61373,Oxalic acid dihydrate,https://pubchem.ncbi.nlm.nih.gov/compound/61373,2026-11-18,0,select_sds
+S042,Бензойная кислота,Benzoic acid,65-85-0,Кислоты,3,Твёрдый реактив,243,Benzoic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/243,2026-11-18,0,select_sds
+S043,Молочная кислота,Lactic acid,50-21-5,Кислоты,3,Концентрацию и изомерный состав выбрать по SDS,612,Lactic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/612,2026-11-18,0,select_sds
+S044,L-Винная кислота,L-Tartaric acid,87-69-4,Кислоты,3,L(+)-изомер,444305,L-Tartaric acid,https://pubchem.ncbi.nlm.nih.gov/compound/444305,2026-11-18,0,select_sds
+S045,Янтарная кислота,Succinic acid,110-15-6,Кислоты,3,Твёрдый реактив,1110,Succinic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/1110,2026-11-18,0,select_sds
+S046,Сульфаминовая кислота,Sulfamic acid,5329-14-6,Кислоты,3,Твёрдый реактив,5987,Sulfamic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/5987,2026-11-18,0,select_sds
+S047,Этилендиаминтетрауксусная кислота,Ethylenediaminetetraacetic acid,60-00-4,Кислоты,2,Свободная кислота; отличать от солей EDTA,6049,Ethylenediaminetetraacetic Acid,https://pubchem.ncbi.nlm.nih.gov/compound/6049,2026-11-18,0,select_sds
+S048,Гидроксид кальция,Calcium hydroxide,1305-62-0,Основания,2,Твёрдый реактив,6093208,Calcium Hydroxide,https://pubchem.ncbi.nlm.nih.gov/compound/6093208,2026-11-18,0,select_sds
+S049,Гидроксид магния,Magnesium hydroxide,1309-42-8,Основания,3,Твёрдый реактив,73981,Magnesium Hydroxide,https://pubchem.ncbi.nlm.nih.gov/compound/73981,2026-11-18,0,select_sds
+S050,Карбонат натрия безводный,Sodium carbonate,497-19-8,Неорганические соли,2,Безводный,10340,Sodium Carbonate,https://pubchem.ncbi.nlm.nih.gov/compound/10340,2026-11-18,0,select_sds
+S051,Карбонат калия,Potassium carbonate,584-08-7,Неорганические соли,2,Безводный,11430,Potassium Carbonate,https://pubchem.ncbi.nlm.nih.gov/compound/11430,2026-11-18,0,select_sds
+S052,Триэтаноламин,Triethanolamine,102-71-6,Основания,3,Чистый реактив,7618,Triethanolamine,https://pubchem.ncbi.nlm.nih.gov/compound/7618,2026-11-18,0,select_sds
+S053,Гидрокарбонат натрия,Sodium bicarbonate,144-55-8,Неорганические соли,2,Твёрдый реактив,516892,Sodium Bicarbonate,https://pubchem.ncbi.nlm.nih.gov/compound/516892,2026-11-18,0,select_sds
+S054,Хлорид калия,Potassium chloride,7447-40-7,Неорганические соли,2,Твёрдый реактив,4873,Potassium Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/4873,2026-11-18,0,select_sds
+S055,Хлорид кальция безводный,Calcium chloride,10043-52-4,Неорганические соли,2,Безводный,5284359,Calcium Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/5284359,2026-11-18,0,select_sds
+S056,Хлорид магния гексагидрат,Magnesium chloride hexahydrate,7791-18-6,Неорганические соли,3,Гексагидрат,24644,Magnesium chloride hexahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/24644,2026-11-18,0,select_sds
+S057,Хлорид аммония,Ammonium chloride,12125-02-9,Неорганические соли,2,Твёрдый реактив,25517,Ammonium Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/25517,2026-11-18,0,select_sds
+S058,Сульфат натрия безводный,Sodium sulfate,7757-82-6,Неорганические соли,2,Безводный,24436,Sodium Sulfate,https://pubchem.ncbi.nlm.nih.gov/compound/24436,2026-11-18,0,select_sds
+S059,Сульфат магния гептагидрат,Magnesium sulfate heptahydrate,10034-99-8,Неорганические соли,2,Гептагидрат,24843,Magnesium Sulfate Heptahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/24843,2026-11-18,0,select_sds
+S060,Сульфат калия,Potassium sulfate,7778-80-5,Неорганические соли,3,Твёрдый реактив,24507,Potassium Sulfate,https://pubchem.ncbi.nlm.nih.gov/compound/24507,2026-11-18,0,select_sds
+S061,Сульфат аммония,Ammonium sulfate,7783-20-2,Неорганические соли,3,Твёрдый реактив,6097028,Ammonium Sulfate,https://pubchem.ncbi.nlm.nih.gov/compound/6097028,2026-11-18,0,select_sds
+S062,Дигидрофосфат натрия моногидрат,Sodium dihydrogen phosphate monohydrate,10049-21-5,Неорганические соли,3,Моногидрат,516949,"Sodium Phosphate, Monobasic, Monohydrate",https://pubchem.ncbi.nlm.nih.gov/compound/516949,2026-11-18,0,select_sds
+S063,Гидрофосфат динатрия безводный,Disodium hydrogen phosphate,7558-79-4,Неорганические соли,3,Безводный,24203,"Sodium Phosphate, Dibasic",https://pubchem.ncbi.nlm.nih.gov/compound/24203,2026-11-18,0,select_sds
+S064,Дигидрофосфат калия,Potassium dihydrogen phosphate,7778-77-0,Неорганические соли,3,Твёрдый реактив,516951,Monobasic potassium phosphate,https://pubchem.ncbi.nlm.nih.gov/compound/516951,2026-11-18,0,select_sds
+S065,Гидрофосфат дикалия,Dipotassium hydrogen phosphate,7758-11-4,Неорганические соли,3,Твёрдый реактив,24450,"Potassium Phosphate, Dibasic",https://pubchem.ncbi.nlm.nih.gov/compound/24450,2026-11-18,0,select_sds
+S066,Ацетат натрия безводный,Sodium acetate,127-09-3,Органические соли,2,Безводный,517045,Sodium Acetate,https://pubchem.ncbi.nlm.nih.gov/compound/517045,2026-11-18,0,select_sds
+S067,Ацетат аммония,Ammonium acetate,631-61-8,Органические соли,3,Твёрдый реактив,517165,Ammonium Acetate,https://pubchem.ncbi.nlm.nih.gov/compound/517165,2026-11-18,0,select_sds
+S068,Цитрат тринатрия дигидрат,Trisodium citrate dihydrate,6132-04-3,Органические соли,3,Дигидрат,71474,Sodium Citrate Dihydrate,https://pubchem.ncbi.nlm.nih.gov/compound/71474,2026-11-18,0,select_sds
+S069,Тиосульфат натрия пентагидрат,Sodium thiosulfate pentahydrate,10102-17-7,Неорганические соли,2,Пентагидрат,61475,Sodium Thiosulfate Pentahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/61475,2026-11-18,0,select_sds
+S070,Сульфит натрия,Sodium sulfite,7757-83-7,Неорганические соли,2,Безводный,24437,Sodium Sulfite,https://pubchem.ncbi.nlm.nih.gov/compound/24437,2026-11-18,0,select_sds
+S071,Метабисульфит натрия,Sodium metabisulfite,7681-57-4,Неорганические соли,2,Твёрдый реактив,656671,Sodium Pyrosulfite,https://pubchem.ncbi.nlm.nih.gov/compound/656671,2026-11-18,0,select_sds
+S072,Нитрат калия,Potassium nitrate,7757-79-1,Неорганические соли,2,Твёрдый реактив,24434,Potassium Nitrate,https://pubchem.ncbi.nlm.nih.gov/compound/24434,2026-11-18,0,select_sds
+S073,Нитрат натрия,Sodium nitrate,7631-99-4,Неорганические соли,2,Твёрдый реактив,24268,Sodium Nitrate,https://pubchem.ncbi.nlm.nih.gov/compound/24268,2026-11-18,0,select_sds
+S074,Нитрит натрия,Sodium nitrite,7632-00-0,Неорганические соли,2,Твёрдый реактив,23668193,Sodium Nitrite,https://pubchem.ncbi.nlm.nih.gov/compound/23668193,2026-11-18,0,select_sds
+S075,Йодид калия,Potassium iodide,7681-11-0,Неорганические соли,2,Твёрдый реактив,4875,Potassium Iodide,https://pubchem.ncbi.nlm.nih.gov/compound/4875,2026-11-18,0,select_sds
+S076,Бромид калия,Potassium bromide,7758-02-3,Неорганические соли,3,Твёрдый реактив,253877,Potassium Bromide,https://pubchem.ncbi.nlm.nih.gov/compound/253877,2026-11-18,0,select_sds
+S077,Персульфат аммония,Ammonium persulfate,7727-54-0,Неорганические соли,2,Твёрдый реактив,62648,Ammonium Persulfate,https://pubchem.ncbi.nlm.nih.gov/compound/62648,2026-11-18,0,select_sds
+S078,Персульфат калия,Potassium persulfate,7727-21-1,Неорганические соли,3,Твёрдый реактив,24412,Potassium Persulfate,https://pubchem.ncbi.nlm.nih.gov/compound/24412,2026-11-18,0,select_sds
+S079,Борат натрия декагидрат,Sodium tetraborate decahydrate,1303-96-4,Неорганические соли,3,Декагидрат; бура,16211214,Borax (B4Na2O7.10H2O),https://pubchem.ncbi.nlm.nih.gov/compound/16211214,2026-11-18,0,select_sds
+S080,Хлорид лития,Lithium chloride,7447-41-8,Неорганические соли,3,Безводный,433294,Lithium Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/433294,2026-11-18,0,select_sds
+S081,Сульфат меди(II) пентагидрат,Copper(II) sulfate pentahydrate,7758-99-8,Соли металлов,2,Пентагидрат,24463,Copper sulfate pentahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/24463,2026-11-18,0,select_sds
+S082,Сульфат железа(II) гептагидрат,Iron(II) sulfate heptahydrate,7782-63-0,Соли металлов,2,Гептагидрат,62662,Ferrous sulfate heptahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/62662,2026-11-18,0,select_sds
+S083,Хлорид железа(III) гексагидрат,Iron(III) chloride hexahydrate,10025-77-1,Соли металлов,2,Гексагидрат,6093258,Ferric chloride hexahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/6093258,2026-11-18,0,select_sds
+S084,Сульфат цинка гептагидрат,Zinc sulfate heptahydrate,7446-20-0,Соли металлов,2,Гептагидрат,62640,Zinc Sulfate Heptahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/62640,2026-11-18,0,select_sds
+S085,Нитрат серебра,Silver nitrate,7761-88-8,Соли металлов,2,Твёрдый реактив,24470,Silver Nitrate,https://pubchem.ncbi.nlm.nih.gov/compound/24470,2026-11-18,0,select_sds
+S086,Хлорид алюминия гексагидрат,Aluminium chloride hexahydrate,7784-13-6,Соли металлов,3,Гексагидрат; отличать от безводного,24564,"Aluminum chloride, hexahydrate",https://pubchem.ncbi.nlm.nih.gov/compound/24564,2026-11-18,0,select_sds
+S087,Хлорид цинка,Zinc chloride,7646-85-7,Соли металлов,3,Безводный,5727,Zinc Chloride,https://pubchem.ncbi.nlm.nih.gov/compound/5727,2026-11-18,0,select_sds
+S088,Сульфат никеля(II) гексагидрат,Nickel(II) sulfate hexahydrate,10101-97-0,Соли металлов,3,Гексагидрат,5284429,Nickel sulfate hexahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/5284429,2026-11-18,0,select_sds
+S089,Хлорид кобальта(II) гексагидрат,Cobalt(II) chloride hexahydrate,7791-13-1,Соли металлов,3,Гексагидрат,24643,Cobaltous chloride hexahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/24643,2026-11-18,0,select_sds
+S090,Хлорид марганца(II) тетрагидрат,Manganese(II) chloride tetrahydrate,13446-34-9,Соли металлов,3,Тетрагидрат,643989,Manganese Chloride Tetrahydrate,https://pubchem.ncbi.nlm.nih.gov/compound/643989,2026-11-18,0,select_sds
+S091,Йод,Iodine,7553-56-2,Прочие лабораторные вещества,2,Кристаллический,807,Iodine,https://pubchem.ncbi.nlm.nih.gov/compound/807,2026-11-18,0,select_sds
+S092,Цинк,Zinc,7440-66-6,Прочие лабораторные вещества,3,Гранулы и порошок как разные продукты,23994,Zinc,https://pubchem.ncbi.nlm.nih.gov/compound/23994,2026-11-18,0,select_sds
+S093,Магний,Magnesium,7439-95-4,Прочие лабораторные вещества,3,Лента; отличать от порошка,5462224,Magnesium,https://pubchem.ncbi.nlm.nih.gov/compound/5462224,2026-11-18,0,select_sds
+S094,Оксид кальция,Calcium oxide,1305-78-8,Прочие лабораторные вещества,3,Твёрдый реактив,14778,Calcium Oxide,https://pubchem.ncbi.nlm.nih.gov/compound/14778,2026-11-18,0,select_sds
+S095,Мочевина,Urea,57-13-6,Прочие лабораторные вещества,2,Твёрдый реактив,1176,Urea,https://pubchem.ncbi.nlm.nih.gov/compound/1176,2026-11-18,0,select_sds
+S096,Глицин,Glycine,56-40-6,Прочие лабораторные вещества,3,Твёрдый реактив,750,Glycine,https://pubchem.ncbi.nlm.nih.gov/compound/750,2026-11-18,0,select_sds
+S097,Сахароза,Sucrose,57-50-1,Прочие лабораторные вещества,3,Твёрдый реактив,5988,Sucrose,https://pubchem.ncbi.nlm.nih.gov/compound/5988,2026-11-18,0,select_sds
+S098,Трис,Tris(hydroxymethyl)aminomethane,77-86-1,Основания,2,Свободное основание; отличать от Tris-HCl,6503,Tris(hydroxymethyl)aminomethane,https://pubchem.ncbi.nlm.nih.gov/compound/6503,2026-11-18,0,select_sds
+S099,Додецилсульфат натрия,Sodium dodecyl sulfate,151-21-3,Органические соли,2,Твёрдый реактив; SDS как сокращение названия вещества,3423265,Sodium Lauryl Sulfate,https://pubchem.ncbi.nlm.nih.gov/compound/3423265,2026-11-18,0,select_sds
+S100,Вода,Water,7732-18-5,Прочие лабораторные вещества,3,Лабораторная вода; контрольный пример,962,Water,https://pubchem.ncbi.nlm.nih.gov/compound/962,2026-11-18,0,select_sds

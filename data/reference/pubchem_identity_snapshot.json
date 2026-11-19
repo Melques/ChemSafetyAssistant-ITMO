@@ -1,0 +1,1602 @@
+[
+  {
+    "cas": "67-64-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/67-64-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 180,
+            "MolecularFormula": "C3H6O",
+            "Title": "Acetone"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "64-17-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/64-17-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 702,
+            "MolecularFormula": "C2H6O",
+            "Title": "Ethanol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "67-63-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/67-63-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 3776,
+            "MolecularFormula": "C3H8O",
+            "Title": "Isopropanol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "67-56-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/67-56-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 887,
+            "MolecularFormula": "CH4O",
+            "Title": "Methanol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "75-05-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/75-05-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6342,
+            "MolecularFormula": "C2H3N",
+            "Title": "Acetonitrile"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "141-78-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/141-78-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 8857,
+            "MolecularFormula": "C4H8O2",
+            "Title": "Ethyl Acetate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "108-88-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/108-88-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1140,
+            "MolecularFormula": "C7H8",
+            "Title": "Toluene"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "110-54-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/110-54-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 8058,
+            "MolecularFormula": "C6H14",
+            "Title": "Hexane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7697-37-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7697-37-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 944,
+            "MolecularFormula": "HNO3",
+            "Title": "Nitric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7647-01-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7647-01-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 313,
+            "MolecularFormula": "ClH",
+            "Title": "Hydrochloric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7664-93-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7664-93-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1118,
+            "MolecularFormula": "H2O4S",
+            "Title": "Sulfuric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "64-19-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/64-19-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 176,
+            "MolecularFormula": "C2H4O2",
+            "Title": "Acetic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7664-38-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7664-38-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1004,
+            "MolecularFormula": "H3O4P",
+            "Title": "Phosphoric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1310-73-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1310-73-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 14798,
+            "MolecularFormula": "HNaO",
+            "Title": "Sodium Hydroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1310-58-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1310-58-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 14797,
+            "MolecularFormula": "HKO",
+            "Title": "Potassium Hydroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1336-21-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1336-21-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 14923,
+            "MolecularFormula": "H5NO",
+            "Title": "Ammonium Hydroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7722-84-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7722-84-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 784,
+            "MolecularFormula": "H2O2",
+            "Title": "Hydrogen Peroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7681-52-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7681-52-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 23665760,
+            "MolecularFormula": "ClNaO",
+            "Title": "Sodium Hypochlorite"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7722-64-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7722-64-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 516875,
+            "MolecularFormula": "KMnO4",
+            "Title": "Potassium Permanganate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7647-14-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7647-14-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5234,
+            "MolecularFormula": "ClNa",
+            "Title": "Sodium Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "142-82-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/142-82-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 8900,
+            "MolecularFormula": "C7H16",
+            "Title": "Heptane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "110-82-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/110-82-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 8078,
+            "MolecularFormula": "C6H12",
+            "Title": "Cyclohexane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "75-09-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/75-09-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6344,
+            "MolecularFormula": "CH2Cl2",
+            "Title": "Dichloromethane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "67-66-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/67-66-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6212,
+            "MolecularFormula": "CHCl3",
+            "Title": "Chloroform"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "60-29-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/60-29-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 3283,
+            "MolecularFormula": "C4H10O",
+            "Title": "Diethyl Ether"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "109-99-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/109-99-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 8028,
+            "MolecularFormula": "C4H8O",
+            "Title": "Tetrahydrofuran"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "123-91-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/123-91-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 31275,
+            "MolecularFormula": "C4H8O2",
+            "Title": "1,4-Dioxane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "68-12-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/68-12-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6228,
+            "MolecularFormula": "C3H7NO",
+            "Title": "Dimethylformamide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "67-68-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/67-68-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 679,
+            "MolecularFormula": "C2H6OS",
+            "Title": "Dimethyl Sulfoxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "872-50-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/872-50-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 13387,
+            "MolecularFormula": "C5H9NO",
+            "Title": "N-methyl-2-pyrrolidone"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "78-93-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/78-93-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6569,
+            "MolecularFormula": "C4H8O",
+            "Title": "Methyl Ethyl Ketone"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "123-86-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/123-86-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 31272,
+            "MolecularFormula": "C6H12O2",
+            "Title": "Butyl Acetate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "71-36-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/71-36-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 263,
+            "MolecularFormula": "C4H10O",
+            "Title": "1-Butanol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "71-23-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/71-23-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1031,
+            "MolecularFormula": "C3H8O",
+            "Title": "1-Propanol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "107-21-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/107-21-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 174,
+            "MolecularFormula": "C2H6O2",
+            "Title": "Ethylene Glycol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "57-55-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/57-55-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1030,
+            "MolecularFormula": "C3H8O2",
+            "Title": "Propylene Glycol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "56-81-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/56-81-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 753,
+            "MolecularFormula": "C3H8O3",
+            "Title": "Glycerol"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "64-18-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/64-18-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 284,
+            "MolecularFormula": "CH2O2",
+            "Title": "Formic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10043-35-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10043-35-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 7628,
+            "MolecularFormula": "BH3O3",
+            "Title": "Boric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "77-92-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/77-92-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 311,
+            "MolecularFormula": "C6H8O7",
+            "Title": "Citric Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "6153-56-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/6153-56-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 61373,
+            "MolecularFormula": "C2H6O6",
+            "Title": "Oxalic acid dihydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "65-85-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/65-85-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 243,
+            "MolecularFormula": "C7H6O2",
+            "Title": "Benzoic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "50-21-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/50-21-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 612,
+            "MolecularFormula": "C3H6O3",
+            "Title": "Lactic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "87-69-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/87-69-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 444305,
+            "MolecularFormula": "C4H6O6",
+            "Title": "L-Tartaric acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "110-15-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/110-15-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1110,
+            "MolecularFormula": "C4H6O4",
+            "Title": "Succinic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "5329-14-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/5329-14-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5987,
+            "MolecularFormula": "H3NO3S",
+            "Title": "Sulfamic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "60-00-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/60-00-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6049,
+            "MolecularFormula": "C10H16N2O8",
+            "Title": "Ethylenediaminetetraacetic Acid"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1305-62-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1305-62-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6093208,
+            "MolecularFormula": "CaH2O2",
+            "Title": "Calcium Hydroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1309-42-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1309-42-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 73981,
+            "MolecularFormula": "H2MgO2",
+            "Title": "Magnesium Hydroxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "497-19-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/497-19-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 10340,
+            "MolecularFormula": "CNa2O3",
+            "Title": "Sodium Carbonate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "584-08-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/584-08-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 11430,
+            "MolecularFormula": "CK2O3",
+            "Title": "Potassium Carbonate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "102-71-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/102-71-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 7618,
+            "MolecularFormula": "C6H15NO3",
+            "Title": "Triethanolamine"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "144-55-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/144-55-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 516892,
+            "MolecularFormula": "CHNaO3",
+            "Title": "Sodium Bicarbonate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7447-40-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7447-40-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 4873,
+            "MolecularFormula": "ClK",
+            "Title": "Potassium Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10043-52-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10043-52-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5284359,
+            "MolecularFormula": "CaCl2",
+            "Title": "Calcium Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7791-18-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7791-18-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24644,
+            "MolecularFormula": "Cl2H12MgO6",
+            "Title": "Magnesium chloride hexahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "12125-02-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/12125-02-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 25517,
+            "MolecularFormula": "ClH4N",
+            "Title": "Ammonium Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7757-82-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7757-82-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24436,
+            "MolecularFormula": "Na2O4S",
+            "Title": "Sodium Sulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10034-99-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10034-99-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24843,
+            "MolecularFormula": "H14MgO11S",
+            "Title": "Magnesium Sulfate Heptahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7778-80-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7778-80-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24507,
+            "MolecularFormula": "K2O4S",
+            "Title": "Potassium Sulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7783-20-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7783-20-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6097028,
+            "MolecularFormula": "H8N2O4S",
+            "Title": "Ammonium Sulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10049-21-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10049-21-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 516949,
+            "MolecularFormula": "H4NaO5P",
+            "Title": "Sodium Phosphate, Monobasic, Monohydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7558-79-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7558-79-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24203,
+            "MolecularFormula": "HNa2O4P",
+            "Title": "Sodium Phosphate, Dibasic"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7778-77-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7778-77-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 516951,
+            "MolecularFormula": "H2KO4P",
+            "Title": "Monobasic potassium phosphate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7758-11-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7758-11-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24450,
+            "MolecularFormula": "HK2O4P",
+            "Title": "Potassium Phosphate, Dibasic"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "127-09-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/127-09-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 517045,
+            "MolecularFormula": "C2H3NaO2",
+            "Title": "Sodium Acetate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "631-61-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/631-61-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 517165,
+            "MolecularFormula": "C2H7NO2",
+            "Title": "Ammonium Acetate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "6132-04-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/6132-04-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 71474,
+            "MolecularFormula": "C6H9Na3O9",
+            "Title": "Sodium Citrate Dihydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10102-17-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10102-17-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 61475,
+            "MolecularFormula": "H10Na2O8S2",
+            "Title": "Sodium Thiosulfate Pentahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7757-83-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7757-83-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24437,
+            "MolecularFormula": "Na2O3S",
+            "Title": "Sodium Sulfite"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7681-57-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7681-57-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 656671,
+            "MolecularFormula": "Na2O5S2",
+            "Title": "Sodium Pyrosulfite"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7757-79-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7757-79-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24434,
+            "MolecularFormula": "KNO3",
+            "Title": "Potassium Nitrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7631-99-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7631-99-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24268,
+            "MolecularFormula": "NNaO3",
+            "Title": "Sodium Nitrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7632-00-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7632-00-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 23668193,
+            "MolecularFormula": "NNaO2",
+            "Title": "Sodium Nitrite"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7681-11-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7681-11-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 4875,
+            "MolecularFormula": "IK",
+            "Title": "Potassium Iodide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7758-02-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7758-02-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 253877,
+            "MolecularFormula": "BrK",
+            "Title": "Potassium Bromide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7727-54-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7727-54-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 62648,
+            "MolecularFormula": "H8N2O8S2",
+            "Title": "Ammonium Persulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7727-21-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7727-21-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24412,
+            "MolecularFormula": "K2O8S2",
+            "Title": "Potassium Persulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1303-96-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1303-96-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 16211214,
+            "MolecularFormula": "B4H20Na2O17",
+            "Title": "Borax (B4Na2O7.10H2O)"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7447-41-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7447-41-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 433294,
+            "MolecularFormula": "ClLi",
+            "Title": "Lithium Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7758-99-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7758-99-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24463,
+            "MolecularFormula": "CuH10O9S",
+            "Title": "Copper sulfate pentahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7782-63-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7782-63-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 62662,
+            "MolecularFormula": "FeH14O11S",
+            "Title": "Ferrous sulfate heptahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10025-77-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10025-77-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6093258,
+            "MolecularFormula": "Cl3FeH12O6",
+            "Title": "Ferric chloride hexahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7446-20-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7446-20-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 62640,
+            "MolecularFormula": "H14O11SZn",
+            "Title": "Zinc Sulfate Heptahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7761-88-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7761-88-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24470,
+            "MolecularFormula": "AgNO3",
+            "Title": "Silver Nitrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7784-13-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7784-13-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24564,
+            "MolecularFormula": "AlCl3H12O6",
+            "Title": "Aluminum chloride, hexahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7646-85-7",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7646-85-7/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5727,
+            "MolecularFormula": "Cl2Zn",
+            "Title": "Zinc Chloride"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "10101-97-0",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/10101-97-0/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5284429,
+            "MolecularFormula": "H12NiO10S",
+            "Title": "Nickel sulfate hexahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7791-13-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7791-13-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 24643,
+            "MolecularFormula": "Cl2CoH12O6",
+            "Title": "Cobaltous chloride hexahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "13446-34-9",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/13446-34-9/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 643989,
+            "MolecularFormula": "Cl2H8MnO4",
+            "Title": "Manganese Chloride Tetrahydrate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7553-56-2",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7553-56-2/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 807,
+            "MolecularFormula": "I2",
+            "Title": "Iodine"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7440-66-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7440-66-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 23994,
+            "MolecularFormula": "Zn",
+            "Title": "Zinc"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7439-95-4",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7439-95-4/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5462224,
+            "MolecularFormula": "Mg",
+            "Title": "Magnesium"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "1305-78-8",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/1305-78-8/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 14778,
+            "MolecularFormula": "CaO",
+            "Title": "Calcium Oxide"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "57-13-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/57-13-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 1176,
+            "MolecularFormula": "CH4N2O",
+            "Title": "Urea"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "56-40-6",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/56-40-6/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 750,
+            "MolecularFormula": "C2H5NO2",
+            "Title": "Glycine"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "57-50-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/57-50-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 5988,
+            "MolecularFormula": "C12H22O11",
+            "Title": "Sucrose"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "77-86-1",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/77-86-1/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 6503,
+            "MolecularFormula": "C4H11NO3",
+            "Title": "Tris(hydroxymethyl)aminomethane"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "151-21-3",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/151-21-3/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 3423265,
+            "MolecularFormula": "C12H25NaO4S",
+            "Title": "Sodium Lauryl Sulfate"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "cas": "7732-18-5",
+    "checked_at": "2026-11-18",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/7732-18-5/property/Title,MolecularFormula/JSON",
+    "result": {
+      "PropertyTable": {
+        "Properties": [
+          {
+            "CID": 962,
+            "MolecularFormula": "H2O",
+            "Title": "Water"
+          }
+        ]
+      }
+    }
+  }
+]

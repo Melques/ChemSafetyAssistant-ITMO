@@ -15,6 +15,7 @@ dist/
 # Сгенерированные данные, пересобираются скриптами из scripts/
 data/processed/*
 !data/processed/.gitkeep
+!data/processed/substances.csv
 
 # Отчёты и трейсы рабочих прогонов. В git попадает только финальный прогон
 # (uv run python -m eval.run --final пишет в reports/final и traces/final)

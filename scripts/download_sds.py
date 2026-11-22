@@ -1,7 +1,7 @@
-"""Скачивание SDS по списку data/substances.csv в data/raw/sds/<doc_id>.pdf.
+"""Заготовка скачивания SDS поставщиков (не реализована).
 
-Сайты производителей часто требуют браузер. Если скачивание не автоматизируется, кладите файлы
-вручную, а источник и дату заполняйте в data/substances.csv.
+Текущий data/processed/substances.csv содержит извлечённые карточки ILO, а не реестр PDF.
+Для его пересборки используйте scripts/parse_ilo_cards.py.
 
 Запуск: uv run python scripts/download_sds.py
 """

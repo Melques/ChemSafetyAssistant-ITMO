@@ -1,6 +1,6 @@
 """Нарезка разделов на чанки (chemsafety.schemas.Chunk). Чанк не пересекает границу раздела.
 
-Метаданные документа берутся из data/substances.csv.
+Текущие карточки ILO находятся в data/processed/substances.csv; интеграция пока не реализована.
 """
 
 from dataclasses import dataclass

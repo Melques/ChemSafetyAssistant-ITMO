@@ -7,7 +7,7 @@ llm:
 
 paths:
   raw_sds: data/raw/sds
-  substances: data/substances.csv
+  substances: data/processed/substances.csv
   compatibility: data/reference/trgs510_compatibility.csv
   processed: data/processed
   chunks: data/processed/chunks.jsonl
